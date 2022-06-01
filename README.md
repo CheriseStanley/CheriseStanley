@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello...is it me you're looking for? 👋
+
+😄 Pronouns: She/Her
+⚡ Fun fact: An American Black Bear's average lifespan is about 10 years.
+
+## 🌱 I’m currently learning:
+<img width="40px" alt="React" src="https://user-images.githubusercontent.com/101126872/171446084-f0f24494-64f3-4ddc-8a88-a59d3cff3659.png">&nbsp;<img src="https://i.imgur.com/Gt41wVy.png" width="40px" alt="python" /> &nbsp;<img src="https://i.imgur.com/o0GEoUG.png" width="40px" alt="JS"/> &nbsp;<img src="https://i.imgur.com/TSZVG5g.png" width="40px" alt="html-5" /> &nbsp;<img src="https://i.imgur.com/9xbG6Ox.png" width="35px" alt="css"/> &nbsp;
+
+### General Stats
+[![Catstack's Stats](https://github-readme-stats.vercel.app/api/?username=CheriseStanley&count_private=true&theme=tokyonight&showicons=true)]()
+
+### Language Stats
+[![Catstack's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CheriseStanley&langs_count=5&theme=tokyonight)]()
