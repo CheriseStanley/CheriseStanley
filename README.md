@@ -1,6 +1,7 @@
 ### Hello...is it me you're looking for? 👋
 
 😄 Pronouns: She/Her 
+
 ⚡ Fun fact: An American Black Bear's average lifespan is about 10 years.
 
 ## 🌱 I’m currently learning:
