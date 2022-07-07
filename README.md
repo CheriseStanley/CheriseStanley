@@ -22,7 +22,7 @@
 
 📭 You can reach me by:
 
-* Direct Message on [LinkedIn](linkedin.com/in/cherise-stanley-ambcs-938bb814a/) 
+* Direct Message on [LinkedIn](https://www.linkedin.com/in/cherise-stanley-ambcs-938bb814a/){:target="_blank"} 
 
 ### General Stats
 [![Cherise's Stats](https://github-readme-stats.vercel.app/api/?username=CheriseStanley&count_private=true&theme=tokyonight&showicons=true)]()
